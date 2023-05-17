@@ -168,7 +168,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("Black\ Minimalist\ Interiors\ Design\ YouTube\ Thumbnail\ \(4\).png") no-repeat center;
+    background: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWSkkLhAoxktRZ4v02iwdwCSujxhf0jXFxEJCYGUyR7V3hpaq1XIWsFCDfrh9cd0erv4KDnxWplpwnYl11XJU6jjjIxY0DKlafA_1WNMDUA-6P3GJ3xkBAHaM9se0ZvemQk2fYXtoufj_TyI3rPmmEntnT7HUPVEE1MK7wcOOT8DlXgr4ON0qH3de/s16000/photo1684232040%20(3).jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
