@@ -168,7 +168,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxWSkkLhAoxktRZ4v02iwdwCSujxhf0jXFxEJCYGUyR7V3hpaq1XIWsFCDfrh9cd0erv4KDnxWplpwnYl11XJU6jjjIxY0DKlafA_1WNMDUA-6P3GJ3xkBAHaM9se0ZvemQk2fYXtoufj_TyI3rPmmEntnT7HUPVEE1MK7wcOOT8DlXgr4ON0qH3de/s16000/photo1684232040%20(3).jpeg") no-repeat center;
+    background: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0I00Gop8Mu_JOQgQUNiLewIcs7GQbfxWXClEKui6DcDN5kwsT-jtxxkaDrULGB40kMH1XHqlcYQRyJAyq2QSg4PyvSz9VL_wQ83ADDrfn-I2NkG1PkLduCn8icNosXaMH_01Kj-o_3OjU3-7v3VL2Bb4Z4xHadE2edzfQrncYN1mxlUlDdMUk4k1S/s16000/Black%20Minimalist%20Interiors%20Design%20YouTube%20Thumbnail%20(4).png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
